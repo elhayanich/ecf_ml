@@ -1,0 +1,13 @@
+{
+  "message": "rapport d'erreur",
+  "data": {
+    "erreur_globale": 0.201,
+    "erreur_globale_sur_les_valeurs": -0.07006962648804826,
+    "erreur_sur_temp": 0.5280455732358669,
+    "erreur_sur_sis": 0.006588243966965224,
+    "erreur_sur_hygro": 0.0003810527255498908,
+    "erreur_sur_anem1": -1.5571800796518045,
+    "erreur_sur_anem2": -0.6079245136096956,
+    "erreur_sur_action": 0.036
+  }
+}
