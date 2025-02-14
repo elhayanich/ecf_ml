@@ -1,6 +1,6 @@
 # fucntion pour corriger le dict
 
- lance ton serveur avec  : uvicorn main:app --reload puis accéde au server/docs ensuite et utilise l'exemple de valeur suivant :
+ lance ton serveur avec  : uvicorn main:app --reload puis accéde au server/docs ensuite et utilise l'exemple suivant avec des valeurs de ton choix:
 
  ```json
  {
